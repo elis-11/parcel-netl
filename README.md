@@ -1,1 +1,1 @@
-# https://parcel-netl.netlify.app/
+# https://parcel-netl.netlify.app
